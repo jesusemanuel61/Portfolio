@@ -27,7 +27,7 @@ Tengo experiencia en el manejo de los programas Fígaro, Conty y Memory: Registr
 * Introducción a las Pruebas de Sistemas de Información - Federico Toledo
 
 ## Mi trabajo
-*[ESRE de un e commerce] (https://docs.google.com/document/d/1zX7cU2DEjo3ipbeUR3IVSckUYFgTNR_G/edit)
+*[ESRE de un e commerce](https://docs.google.com/document/d/1zX7cU2DEjo3ipbeUR3IVSckUYFgTNR_G/edit)
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1iO_gASFUI3KKP7htOTjZTzAoXT6dzQZpvi34tfpvbZM/edit#gid=0)
   * [Informe de pruebas](https://docs.google.com/document/d/1N2Z-BNzLXCmValopcyalgFaVWu64oJeA/edit)
