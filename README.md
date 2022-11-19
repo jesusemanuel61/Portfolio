@@ -15,10 +15,10 @@ Tengo experiencia en el manejo de los programas Fígaro, Conty y Memory: Registr
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
   
 ## Herramientas
-*Memory Conty 
-*Memory Worky 
-*Memory Figaro
-*SQL
+* Memory Conty 
+* Memory Worky 
+* Memory Figaro
+* SQL
 * Testlink
 * Jira
 * MantisBT
